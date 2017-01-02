@@ -8,7 +8,15 @@
 <<<<<<< HEAD
 ### Requirement ###
 
-- Python >=3.4
+#update Nodejs
+
+1.curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+
+2.sudo apt-get install nodejs
+
+
+
+- Python >=3.4 or  Python==2.7
   - TensorFlow 0.11.0
 - Node >=6.9
 
